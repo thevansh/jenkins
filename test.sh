@@ -1,1 +1,1 @@
-echo "This is a file on github. Ready for shipping"
+echo "This is a file on github. V3"
